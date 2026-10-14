@@ -1,4 +1,10 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+.vscode/
+assets/
+scripts/
+AGENTS.md
+LICENSE
+tsconfig.json
+/src/global.css
 
 # dependencies
 node_modules/
